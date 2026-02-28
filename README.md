@@ -1,4 +1,4 @@
-Copyright Sabin Padurariu (c) 2025
+Copyright (c) 2025 Sabin Padurariu
 
 # Random Number Generator
 
